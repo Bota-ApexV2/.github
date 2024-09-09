@@ -13,3 +13,6 @@ Bota Apex is a project that uses GitHub to host our servers. We are here to foll
 ## Contact
 
 If you have any questions or need support, feel free to reach out via email: support@bota-apex.int.eu.org.
+
+## Move
+We make an email for every project we make
